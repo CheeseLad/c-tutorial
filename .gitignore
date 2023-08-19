@@ -1,0 +1,4 @@
+C-Tutorial/bin
+C-Tutorial/obj
+*.cbp
+*.depend
