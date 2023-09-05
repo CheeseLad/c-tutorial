@@ -4,6 +4,7 @@
 double cube(double num){
     double result = num * num * num;
     return result;
+    // return num * num * num;
 }
 
 int main()

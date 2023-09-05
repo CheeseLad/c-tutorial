@@ -3,3 +3,5 @@ C-Tutorial/obj
 *.layout
 *.cbp
 *.depend
+*.exe
+*.o
